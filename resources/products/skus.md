@@ -45,7 +45,7 @@
 ## Description
 
 ### GET products/id/skus.json
-GET all skus for an product
+GET all skus for a product
 
 #### Request
 This GET request returns all the SKUs by default. It can be filtered by following fields.
